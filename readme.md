@@ -5,7 +5,7 @@
 This is a watch-do tutorial/ challenge assigned by the Odint Project and directed to Javascript30. 
 
 
-![clock](img/untitled.png)
+![clock](img/Untitled.png)
 
 
 

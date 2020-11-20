@@ -43,5 +43,14 @@
       background: black;
       position: absolute;
       top: 50%;
+      transform-origin: 100%; 
+      /* This 100% means it will rotate the element from 100% x Axis, maening rotate not from the middle of the elemenet
+      bu from the right hand side */
+      transform: rotate(90deg);
+
+
+      /* transition all 0.5 sec will make the movement smoother like a real clock */
+      transition: all 0.5s;
+      transition-timing-function: ease-in-out;
     }
 
